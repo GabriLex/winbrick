@@ -191,8 +191,6 @@ USARE SOLO SU AMBIENTI DI TEST CONTROLLATI.
 
 ---
 
-<div align="center">
-
 ```
    .  .    .__        .  
   |  |*._ [__)._.* _.;_/
