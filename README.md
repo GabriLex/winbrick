@@ -1,4 +1,3 @@
-```markdown
 # WinBrick 🧱💀
 
 ---
@@ -207,4 +206,3 @@ USARE SOLO SU AMBIENTI DI TEST CONTROLLATI.
 ---
 
 **⚠️ **RICORDA: USA SOLO SU VM DI TEST!** ⚠️** 🔥💀🧱
-```
